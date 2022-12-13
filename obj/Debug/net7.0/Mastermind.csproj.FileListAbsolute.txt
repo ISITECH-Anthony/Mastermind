@@ -1,0 +1,15 @@
+/Users/anthony/Documents/ISITECH/C#/Project/Mastermind/bin/Debug/net7.0/Mastermind
+/Users/anthony/Documents/ISITECH/C#/Project/Mastermind/bin/Debug/net7.0/Mastermind.deps.json
+/Users/anthony/Documents/ISITECH/C#/Project/Mastermind/bin/Debug/net7.0/Mastermind.runtimeconfig.json
+/Users/anthony/Documents/ISITECH/C#/Project/Mastermind/bin/Debug/net7.0/Mastermind.dll
+/Users/anthony/Documents/ISITECH/C#/Project/Mastermind/bin/Debug/net7.0/Mastermind.pdb
+/Users/anthony/Documents/ISITECH/C#/Project/Mastermind/obj/Debug/net7.0/Mastermind.csproj.AssemblyReference.cache
+/Users/anthony/Documents/ISITECH/C#/Project/Mastermind/obj/Debug/net7.0/Mastermind.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anthony/Documents/ISITECH/C#/Project/Mastermind/obj/Debug/net7.0/Mastermind.AssemblyInfoInputs.cache
+/Users/anthony/Documents/ISITECH/C#/Project/Mastermind/obj/Debug/net7.0/Mastermind.AssemblyInfo.cs
+/Users/anthony/Documents/ISITECH/C#/Project/Mastermind/obj/Debug/net7.0/Mastermind.csproj.CoreCompileInputs.cache
+/Users/anthony/Documents/ISITECH/C#/Project/Mastermind/obj/Debug/net7.0/Mastermind.dll
+/Users/anthony/Documents/ISITECH/C#/Project/Mastermind/obj/Debug/net7.0/refint/Mastermind.dll
+/Users/anthony/Documents/ISITECH/C#/Project/Mastermind/obj/Debug/net7.0/Mastermind.pdb
+/Users/anthony/Documents/ISITECH/C#/Project/Mastermind/obj/Debug/net7.0/Mastermind.genruntimeconfig.cache
+/Users/anthony/Documents/ISITECH/C#/Project/Mastermind/obj/Debug/net7.0/ref/Mastermind.dll
